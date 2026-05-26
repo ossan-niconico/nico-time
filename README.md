@@ -16,7 +16,7 @@ MT4用インジケーター。時刻ライン・キリバン・前日高値安�
 4. MT4を再起動（またはF7でコンパイル）
 5. ナビゲーター →「nico-time」をチャートにドラッグ
 
-## 詳細マニュアル・配布記事
+## 配布記事
 
 （https://note.com/ossan_niconico/n/ne6a576edcc71?app_launch=false）
 
