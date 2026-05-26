@@ -18,7 +18,7 @@ MT4用インジケーター。時刻ライン・キリバン・前日高値安�
 
 ## 配布記事
 
-（https://note.com/ossan_niconico/n/ne6a576edcc71）
+https://note.com/ossan_niconico/n/ne6a576edcc71
 
 ## 作者
 
